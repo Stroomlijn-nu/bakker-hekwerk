@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Tjimka.github.io/hekwerk-gorredijk/sitemap.xml
+Sitemap: https://stroomlijn-nu.github.io/bakker-hekwerk/sitemap.xml
